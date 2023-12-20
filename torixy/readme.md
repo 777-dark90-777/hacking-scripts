@@ -13,7 +13,7 @@ MIT License
 
 <p></p>
 
-Usage: torixy.sh [OPTION]...
+Usage: torixy.sh [OPTION]...<br/>
 Options:
   -install to	install tor, privoxy and netcat
   -start to start tor and privoxy
