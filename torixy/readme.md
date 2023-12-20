@@ -9,10 +9,6 @@ Torixy Version 1.0 by @h4ck90er
 MIT License                              
 </code>
 
-
-
-<p></p>
-
 Usage: torixy.sh [OPTION]...<br>
 Options:<br>
   -install to	install tor, privoxy and netcat<br>
