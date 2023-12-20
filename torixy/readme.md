@@ -5,7 +5,7 @@
    ██║   ██║   ██║██╔══██╗██║ ██╔██╗   ╚██╔╝  
    ██║   ╚██████╔╝██║  ██║██║██╔╝ ██╗   ██║   
    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝   ╚═╝   
-Torixy Version 1.0 by h4ck90er
+Torixy Version 1.0 by @h4ck90er
 MIT License                              
 </code>
 
