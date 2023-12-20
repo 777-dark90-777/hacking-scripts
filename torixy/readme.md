@@ -14,18 +14,18 @@ MIT License
 <p></p>
 
 Usage: torixy.sh [OPTION]...<br>
-Options:
-  -install to	install tor, privoxy and netcat
-  -start to start tor and privoxy
-  -stop to stop tor and privoxy
-  -h to show this help
+Options:<br>
+  -install to	install tor, privoxy and netcat<br>
+  -start to start tor and privoxy<br>
+  -stop to stop tor and privoxy<br>
+  -h to show this help<br>
 
 Examples:
-  sudo torixy.sh -install
-  sudo torixy.sh -start
-  sudo torixy.sh -stop
-  torixy.sh -h"
+  sudo torixy.sh -install<br>
+  sudo torixy.sh -start<br>
+  sudo torixy.sh -stop<br>
+  torixy.sh -h"<br>
 
-Run torify firefox www.duckduckgo.com or...
-You can also set proxy in firefox [HTTP and HTTPs 127.0.0.1 Port 8118]
-Good practice to start a local vpn before access to tor network
+Run torify firefox www.duckduckgo.com or...<br>
+You can also set proxy in firefox [HTTP and HTTPs 127.0.0.1 Port 8118]<br>
+Good practice to start a local vpn before access to tor network<br>
